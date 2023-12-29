@@ -1,0 +1,3 @@
+database server  database  
+Web server backend  java python php Tomcat server
+Host server  front end  angular 

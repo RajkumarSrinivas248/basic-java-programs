@@ -1,0 +1,56 @@
+show tables names and values:
+
+select * from table_name;
+
+
+AND---
+
+select * from table_name where column_name="values" and column_name2="values2";
+
+Where--
+  
+select * from table_name where column_name="values";
+
+
+OR
+
+select * from table_name where  column_name="values" NOT IN (values");
+
+select * from table_name where (column_name="values" OR column_name="values");
+
+
+
+
+ASENDING ORDER
+
+
+select * from table_name ORDERBY Column_name ASC;
+
+
+DESCENDING ORDER
+
+select * from table_name ORDERBY Column_name DESC;
+
+it holes a diffrent modules 
+
+
+
+and different  bug fixing 
+
+Code and debuggung
+
+involving junit 
+implmenting crud operations
+participate in change created.
+
+
+
+
+
+
+
+
+
+
+
+
